@@ -1,0 +1,4 @@
+The Operating System is a piece of software that manages the hardware.
+The operating system is abbreviated as "OS".
+The OS is considered the communication bridge between the user and computer hardware - or interface.
+OS manages tasks, memory, and programs among other functions.
