@@ -2,3 +2,7 @@ The Operating System is a piece of software that manages the hardware.
 The operating system is abbreviated as "OS".
 The OS is considered the communication bridge between the user and computer hardware - or interface.
 OS manages tasks, memory, and programs among other functions.
+Some other important functions of an operating system are: security, control over system performance, and job accounting.
+The OS uses password protection to protect user data.
+The OS monitors overall system health to improve performance.
+The OS keeps track of time and resources used by various tasks and users. 
