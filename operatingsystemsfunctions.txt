@@ -6,3 +6,7 @@ Some other important functions of an operating system are: security, control ove
 The OS uses password protection to protect user data.
 The OS monitors overall system health to improve performance.
 The OS keeps track of time and resources used by various tasks and users. 
+Memory management is one of the more important funtions of the OS.
+It manages the primary memory and main memory. 
+Main memory is a fast storage that can be accessed directly by the CPU.
+Primary memory; allocating which bytes of memory are sued by which user program. 
